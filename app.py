@@ -1,7 +1,5 @@
 from flask import Flask, jsonify, request
 import os
-from flask_restful import Resource, Api
-import random
 import gunicorn
 
 
