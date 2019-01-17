@@ -1,4 +1,5 @@
 from flask import Flask, jsonify, request
+import os
 from flask_restful import Resource, Api
 import random
 import gunicorn
@@ -6,6 +7,7 @@ import gunicorn
 
 app = Flask(__name__)
 
+port = int(os.environ.get('PORT', 5000))
 
 phrases = ["You are great", "You are fantastic", "You are so good looking","I think you are special","You are number 1",
            "You sure are dandy","There's no one as good as you","You are just so lovely","You are just too perfect",
