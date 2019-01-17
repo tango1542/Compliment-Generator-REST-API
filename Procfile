@@ -1,1 +1,1 @@
-web: gunicorn RestAPI_RandomComliment:app
+web: gunicorn app:app

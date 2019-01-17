@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/app.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91cf30ec-93a2-489b-810a-b31e66e36902" name="Default Changelist" comment="" />
+    <list default="true" id="91cf30ec-93a2-489b-810a-b31e66e36902" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,14 +26,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Procfile" value="1" />
+          <entry key="Procfile" value="4" />
           <entry key="procfile" value="24" />
           <entry key="py" value="961" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="PLAIN_TEXT" value="28" />
           <entry key="Python" value="961" />
         </counts>
       </usages-collector>
@@ -67,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -100,8 +102,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
-    <option name="y" value="313" />
+    <option name="x" value="151" />
+    <option name="y" value="302" />
     <option name="width" value="1308" />
     <option name="height" value="631" />
   </component>
@@ -198,7 +200,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="313" width="1308" height="631" extended-state="0" />
+    <frame x="151" y="302" width="1308" height="631" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -245,7 +247,7 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
