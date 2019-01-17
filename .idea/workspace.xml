@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/app.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91cf30ec-93a2-489b-810a-b31e66e36902" name="Default Changelist" comment="" />
+    <list default="true" id="91cf30ec-93a2-489b-810a-b31e66e36902" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +101,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="246" />
-    <option name="y" value="258" />
+    <option name="x" value="226" />
+    <option name="y" value="313" />
     <option name="width" value="1308" />
     <option name="height" value="631" />
   </component>
@@ -197,7 +199,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="246" y="258" width="1308" height="631" extended-state="0" />
+    <frame x="226" y="313" width="1308" height="631" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
