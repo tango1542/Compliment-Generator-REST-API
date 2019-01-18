@@ -11,7 +11,9 @@ phrases = ["You are great", "You are fantastic", "You are so good looking","I th
            "You sure are dandy","There's no one as good as you","You are just so lovely","You are just too perfect",
            "Aren't you just lucky to be you","Everything about you is just really great"]
 
-tests = ["test1","test2","test3"]
+pics = ["https://gdurl.com/6r-Z","https://gdurl.com/W_NX","https://gdurl.com/Smng"]
+
+# tests = ["test1","test2","test3"]
 
 
 @app.route('/', methods=['GET','POST'])
@@ -28,7 +30,8 @@ def return_data():
 
     # rand_phrase = random.choice(phrases)
     # print (rand_phrase)
-    return jsonify({'compliments': phrases},{'test': tests})
+    return jsonify({'compliments': phrases},{'Pictures': pics})
+    # return jsonify({"name": "Brian", "city": ("Seattle","Portland","Chicago","Des Moines","St Louis")},)
 
 # @app.route('/dog_picture',methods=['GET'])
 
