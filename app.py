@@ -11,7 +11,9 @@ phrases = ["You are great", "You are fantastic", "You are so good looking","I th
            "You sure are dandy","There's no one as good as you","You are just so lovely","You are just too perfect",
            "Aren't you just lucky to be you","Everything about you is just really great"]
 
-pics = ["https://gdurl.com/6r-Z","https://gdurl.com/W_NX","https://gdurl.com/Smng"]
+pics = ["https://gdurl.com/nr3i","https://gdurl.com/j6uz","https://gdurl.com/Hj5U","https://gdurl.com/h0NR",
+        "https://gdurl.com/3seU","https://gdurl.com/6bhf","https://gdurl.com/itaB","https://gdurl.com/Wpv7",
+        "https://gdurl.com/s0KH","https://gdurl.com/jedc","https://gdurl.com/YSL3"]
 
 # tests = ["test1","test2","test3"]
 
@@ -28,10 +30,9 @@ def index():
 @app.route('/return_data', methods=['GET'])
 def return_data():
 
-    # rand_phrase = random.choice(phrases)
-    # print (rand_phrase)
+
     return jsonify({'compliments': phrases},{'Pictures': pics})
-    # return jsonify({"name": "Brian", "city": ("Seattle","Portland","Chicago","Des Moines","St Louis")},)
+
 
 # @app.route('/dog_picture',methods=['GET'])
 
